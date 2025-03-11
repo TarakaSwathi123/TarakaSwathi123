@@ -1,78 +1,104 @@
-# Singamsetti Taraka Swathi
+# 🚀 Singamsetti Taraka Swathi  
 
-**Working Professional**  
-Highly motivated Software Developer with 2 years of experience in JavaScript and React. Skilled in developing and maintaining dynamic web applications with a strong focus on user experience and performance. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Committed to continuous learning and professional growth within a forward-thinking organization.
+**Frontend Engineer | JavaScript & React Enthusiast**  
 
-📧 [tarakaswathi2001@gmail.com](mailto:tarakaswathi2001@gmail.com)  
-📞 8985776199  
-📍 Hyderabad  
-🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/tarakaswathi2001/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/taraka-swathi-4a652119b)  
-🔗 [GitHub](https://github.com/TarakaSwathi123)
+💡 Passionate about building **scalable** and **high-performance** web applications.  
+🎯 2+ years of experience in **React, JavaScript, TypeScript, Go, Tailwind CSS, Redux, Zustand, and Web SDKs**.  
+📌 Currently working as **Frontend Engineer at Datazip**.  
 
----
-## 🎓 Education
-**B.Tech in Computer Science & Engineering**  
-JNTU University Gurajada Vizianagaram (2019 - 2023)  
-**CGPA:** 8.9/10  
+📧 **Email:** [tarakaswathi2001@gmail.com](mailto:tarakaswathi2001@gmail.com)  
+📞 **Phone:** 8985776199  
+📍 **Location:** Hyderabad  
+🔗 **[LinkedIn](https://www.linkedin.com/in/taraka-swathi-4a652119b/)** | **[GitHub](https://github.com/TarakaSwathi123)** | **[GeeksforGeeks](https://www.geeksforgeeks.org/user/tarakaswathi2001/)**  
 
 ---
-## 🔨 Personal Projects
-- **User and Result Management System** - Built using Go, React, Tailwind CSS, TypeScript, Shadcn, Webpack.
-- **Task Management App** - Developed using React, Redux Toolkit.
-- **Blog App** - Features user authentication, article CRUD operations, search, categories/tags, and a responsive UI. Stack: React.js, Node.js, Express.js, MongoDB, Firebase.
-- **Trello Clone** - Built with React, Redux Toolkit, React Router, React Query, Zod, Beautiful DnD, Axios, Flowbite-React, React Toastify, Node.js, Express.js, MongoDB, JWT, bcrypt.
+
+## 🚀 **Skills & Tech Stack**  
+
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Zustand](https://img.shields.io/badge/Zustand-2C3E50?style=for-the-badge&logo=react&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+
+### **Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Beego](https://img.shields.io/badge/Beego-EB7A77?style=for-the-badge&logo=go&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+### **Testing & DevOps**  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI/CD-FF5733?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ---
-## 💼 Work Experience
-### **Software Engineer**  
-**Apxor Technology Solutions** (01/2023 - 12/2024)  
-- Developed **AAPTA**, a daily bot using React.
-- Managed and handled updates for [Apxor Website](http://www.apxor.com) using Webflow.
-- Led **Mono Repo conversion** and **Flutter support** for plugins.
-- Developed websites for testing in **React, Vue.js, and Angular**.
-- Wrote **unit tests** for all plugins using **Jest, Vitest, and Cypress**.
-- Built multiple **nudge templates** like Tooltips, Inapps, Coachmarks, Surveys, and Badges using JavaScript.
-- Developed reusable UI components for **[Apxor Dashboard](https://engage.apxor.com/)** using **React, TypeScript, Tailwind CSS, Redux, React Query, Zustand, Tanstack Router, Shadcn, Material UI**.
-- Implemented **CI/CD pipelines, Eslint, and Prettier**.
-- Developed a **Chrome Extension** for Apxor using JavaScript and React.
-- Resolved **500+ frontend and SDK bugs**.
-- Created a **WordPress Plugin**.
 
-### **Frontend Engineer**  
-**Datazip** (12/2024 - Present)  
-- Building **Olake** from scratch using **React, Go, Beego, Tailwind CSS, Ant Design, Zustand, Zod**.
-- Developing **reusable UI components**.
+## 💼 **Work Experience**  
+
+### **Frontend Engineer** – **Datazip** (12/2024 - Present)  
+🔹 Building **Olake** from scratch using **React, Go, Beego, Tailwind CSS, Ant Design, Zustand, Zod**.  
+🔹 Developing **reusable UI components** for scalability and performance.  
+
+### **Software Engineer** – **Apxor Technology Solutions** (01/2023 - 12/2024)  
+✅ **AAPTA Bot** – Developed an interactive **daily bot** using React.  
+✅ **Apxor Website** – Managed and handled updates using **Webflow**.  
+✅ **Mono Repo Conversion** & **Flutter Plugin Support**.  
+✅ Built **nudge templates** (Tooltips, Inapps, Coachmarks, Surveys, Badges).  
+✅ Created **reusable UI components** for **[Apxor Dashboard](https://engage.apxor.com/)**.  
+✅ Developed a **Chrome Extension** using JavaScript and React.  
+✅ Resolved **500+ frontend & SDK bugs**.  
+✅ Created a **WordPress Plugin** for seamless integration.  
 
 ---
-## 🛠 Skills
-- **Frontend:** JavaScript, TypeScript, React, Redux, Zustand, Next.js, Webflow, Tailwind CSS, Material UI, Bootstrap, Ant Design
-- **Backend:** Node.js, Express.js, Go, Beego, Flask, Django
-- **Database:** MongoDB, SQL, Firebase
-- **Testing:** Jest, Vitest, Cypress
-- **DevOps & Tools:** Docker, CI/CD, Webpack, Babel, Nginx, Vercel, Git, AWS
-- **Other:** GraphQL, System Design, RESTful API, JWT, D3.js
+
+## 🔨 **Projects**  
+
+📌 **Task Management App**  
+- Built using **React, Redux Toolkit, Zustand**.  
+🔗 **[Live Demo](https://task-management-system-9ef06.web.app/)** | **[GitHub Repo](https://github.com/TarakaSwathi123/Task-management-mern)**  
+
+📌 **Trello Clone**  
+- Built with **React, Redux Toolkit, React Query, Zustand, Beautiful DnD, Axios, Flowbite-React**.  
+
+📌 **Snake and Ladder Game**  
+- Developed a **Snake & Ladder Game** using JavaScript.  
+🔗 **[GitHub Repo](https://github.com/TarakaSwathi123/Javascript-Interview-Questions/blob/main/snake-ladder-game.js)**  
 
 ---
-## 🏆 Achievements
-- **3rd prize** in National Level Debate by TCS IYD.
-- **Best Performance Award** at Apxor (2023).
-- **Bertelsmann Frontend Scholarship (2023)**.
-- Recognized for delivering multiple features like Coachmarks, Surveys, and Badges on time.
-- **Scrum Master** at Apxor, successfully leading daily standups.
-- Leading **Web Team** at Apxor.
+
+## 🏆 **Achievements**  
+🏅 **3rd Prize** – National Level Debate by TCS IYD.  
+🏅 **Best Performance Award (2023)** – Apxor.  
+🎓 **Bertelsmann Frontend Scholarship (2023)**.  
+📌 **Scrum Master** – Successfully led **daily standups & sprint planning**.  
 
 ---
-## 📜 Certifications
-- **Web Development with Django & Git/GitHub** – APSSDC
-- **Front End Development Libraries** – FreeCodeCamp
-- **Namaste React & Namaste Node** – Akshay Saini
-- **Frontend System Design**
-- **Explore App Development with the MERN Stack** – LinkedIn
+
+## 📜 **Certifications**  
+🎓 **Web Development with Django & Git/GitHub** – APSSDC  
+🎓 **Frontend System Design**  
+🎓 **Front End Development Libraries** – FreeCodeCamp  
+🎓 **Namaste React & Namaste Node** – Akshay Saini  
+🎓 **MERN Stack Development** – LinkedIn Learning  
 
 ---
-## 💻 Coding Profiles
-- **LeetCode & GeeksforGeeks:** Solved **200+ coding problems**.
 
-🔗 [Task Management App](https://task-management-system-9ef06.web.app/)  
-🔗 [Task Management GitHub Repo](https://github.com/TarakaSwathi123/Task-management-mern)
+## 📊 **GitHub Stats**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarakaSwathi123&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarakaSwathi123&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TarakaSwathi123&theme=radical)  
+
+---
+
+🔗 **[Portfolio Website](#)** | 🔗 **[Blog](#)**  
+🚀 Always open to **collaborations & new opportunities**!  
