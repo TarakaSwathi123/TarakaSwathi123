@@ -99,6 +99,4 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TarakaSwathi123&theme=radical)  
 
 ---
-
-🔗 **[Portfolio Website](#)** | 🔗 **[Blog](#)**  
 🚀 Always open to **collaborations & new opportunities**!  
