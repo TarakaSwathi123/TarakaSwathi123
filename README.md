@@ -23,6 +23,10 @@
 ![Zustand](https://img.shields.io/badge/Zustand-2C3E50?style=for-the-badge&logo=react&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)  
+![Zod](https://img.shields.io/badge/Zod-3E64FF?style=for-the-badge&logo=typescript&logoColor=white)  
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)  
+
 
 ### **Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
