@@ -9,7 +9,7 @@
 📧 **Email:** [tarakaswathi2001@gmail.com](mailto:tarakaswathi2001@gmail.com)  
 📞 **Phone:** 8985776199  
 📍 **Location:** Hyderabad  
-🔗 **[LinkedIn](https://www.linkedin.com/in/taraka-swathi-4a652119b/)** | **[GitHub](https://github.com/TarakaSwathi123)** | **[GeeksforGeeks](https://www.geeksforgeeks.org/user/tarakaswathi2001/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/taraka-swathi-4a652119b/)** | **[GitHub](https://github.com/TarakaSwathi123)** | **[GeeksforGeeks](https://www.geeksforgeeks.org/user/tarakaswathi2001/)** | **[Work Github](https://github.com/tarakaswathi-datazip)**  
 
 ---
 
