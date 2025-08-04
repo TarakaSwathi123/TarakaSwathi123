@@ -49,8 +49,12 @@
 ## 💼 **Work Experience**  
 
 ### **Frontend Engineer** – **Datazip** (12/2024 - Present)  
-🔹 Building **Olake** from scratch using **React, Go, Beego, Tailwind CSS, Ant Design, Zustand, Zod**.  
-🔹 Developing **reusable UI components** for scalability and performance.  
+- 🔧 **Integrated Grafana Monitoring Dashboards** into the BI platform using **Grafana, Nginx, Docker**, and **Flask App Builder (FAB)** for real-time observability and insights.
+- 📦 **Migrated BI system** to a self-managed **Apache Superset** stack with **Docker** and **PostgreSQL**, improving scalability and flexibility.
+- 🧱 **Led development of [Olake UI](https://github.com/datazip-inc/olake-ui)** – a scalable, open-source frontend built with **React**, connected to a **Go + Beego** backend with full **CRUD support**.
+- 🌐 **Revamped** both the **Olake** and **Datazip** websites using **React**, making them faster, more responsive, and modern.
+- 📊 **Implemented telemetry** for the Olake project, tracking user activity, performance, and system health in detail.
+
 
 ### **Software Engineer** – **Apxor Technology Solutions** (01/2023 - 12/2024)  
 ✅ **AAPTA Bot** – Developed an interactive **daily bot** using React.  
